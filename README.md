@@ -4,18 +4,20 @@
 *Insert here a brief description of the project, including, purpose, technologies used and context 
 where it was created.*
 
-## Instal dependencies
+## Install dependencies
 
-Install dependencies with the following command in terminal:
+Install all the dependencies stated in the requirements.txt file, just run the following command in terminal:
 
         pip install -r requirements.txt
+        
+Or you can manually install one by one using the name and version in the file.
 
 ## Funcionalities
 
-*Examples of core functionalities for the project in this repository.*
+*Add here examples of core functionalities for the project in this repository.*
 
 ## Author
-*Name and a brief description on who you are.*
+*Add Name and a brief description on who you are.*
 
 ## License
 **GNU General Public License v3.0** 
