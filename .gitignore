@@ -1,3 +1,16 @@
+
+# --------- Added manually -------- #
+# --------------------------------- #
+
+# -- Pycharm project info
+.idea/
+
+# -- Files
+files/
+
+# --------------------------------- #
+# --------------------------------- #
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
