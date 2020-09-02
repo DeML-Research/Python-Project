@@ -1,5 +1,3 @@
-# Project Title
-
 ## Description
 *Insert here a brief description of the project, including, purpose, technologies used and context 
 where it was created.*
