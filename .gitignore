@@ -1,12 +1,24 @@
 
-# --------- Added manually -------- #
-# --------------------------------- #
+# ----------------- Added manually ---------------- #
+# ------------------------------------------------- #
 
-# -- Pycharm project info
+# -- Exclude pycharm project folder
 .idea/
 
-# --------------------------------- #
-# --------------------------------- #
+# -- Exclude vscode workspace folder
+python_project.code-workspace
+
+# -- Exclude vscode settings folder
+.vscode/
+
+# -- Exclude virtual environment
+python_project_venv/
+
+# -- Exclude files folder
+files/
+
+# ------------------------------------------------- #
+# ------------------------------------------------- #
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
