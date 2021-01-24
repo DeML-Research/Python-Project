@@ -17,6 +17,6 @@ import data as dt
 print(dt.dict_test)
 
 # -- TEST 2 :
-# verify that installed pandas modeule works correctly
+# verify that installed pandas module works correctly
 df_dict_test = pd.DataFrame(dt.dict_test, index=[0,1])
 print(df_dict_test)
