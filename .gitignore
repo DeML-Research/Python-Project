@@ -1,6 +1,6 @@
 
-# ----------------- Added manually ---------------- #
-# ------------------------------------------------- #
+# ------------------------- Added manually ------------------------ #
+# ----------------------------------------------------------------- #
 
 # -- Exclude pycharm project folder
 .idea/
@@ -14,11 +14,11 @@ python_project.code-workspace
 # -- Exclude virtual environment
 python_project_venv/
 
-# -- Exclude files folder
+# -- Exclude files folder (sometimes is useful not to exclude it)
 files/
 
-# ------------------------------------------------- #
-# ------------------------------------------------- #
+# ----------------------------------------------------------------- #
+# ----------------------------------------------------------------- #
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
