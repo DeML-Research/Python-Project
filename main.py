@@ -4,7 +4,7 @@
 # -- project: A SHORT DESCRIPTION OF THE PROJECT                                                         -- #
 # -- script: main.py : python script with the main functionality                                         -- #
 # -- author: YOUR GITHUB USER NAME                                                                       -- #
-# -- license: GPL-3.0 License                                                                            -- #
+# -- license: THE LICENSE TYPE AS STATED IN THE REPOSITORY                                               -- #
 # -- repository: YOUR REPOSITORY URL                                                                     -- #
 # -- --------------------------------------------------------------------------------------------------- -- #
 """
@@ -34,7 +34,7 @@ data = [go.Bar(x=df['column_a'], y=df['column_b'])]
 # instruction to view it inside jupyter
 py.iplot(data, filename='jupyter-basic_bar')
 # (alternatively) instruction to view it in web app of plotly
-# py.plot(data)
+py.plot(data)
 
 # -- TEST 4 :
 # verify you can use plotly and visualize plots in web browser locally
