@@ -15,7 +15,10 @@ python_project.code-workspace
 python_project_venv/
 
 # -- Exclude files folder (sometimes is useful not to exclude it)
-files/
+# files/
+
+# -- Data Store
+.DS_Store
 
 # ----------------------------------------------------------------- #
 # ----------------------------------------------------------------- #
